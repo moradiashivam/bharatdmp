@@ -1,0 +1,12 @@
+[
+  {
+    "domain": "Social Science",
+    "mode": "add",
+    "fields": ["project_title", "research_objectives", "data_collection_method", "ethics_approval"]
+  },
+  {
+    "domain": "Agriculture",
+    "mode": "add",
+    "fields": ["project_title", "field_site_location", "crop_or_species", "data_storage"]
+  }
+]
